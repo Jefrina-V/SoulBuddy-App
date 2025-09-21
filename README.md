@@ -1,6 +1,6 @@
 # SoulBuddy-App
 
-🌸 SoulBuddy – Mental Wellness App
+🌸 SoulBuddy – youth Mental Wellness App
 
 SoulBuddy is a Generative AI-powered, confidential, and empathetic mental wellness companion designed for youth.
 It helps students and young adults track their moods, practice coping strategies, and talk openly in a safe, stigma-free space.
